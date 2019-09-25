@@ -8,7 +8,7 @@ from dash.dependencies import Input, Output, State
 
 myheading1='How to use callbacks with multiple inputs'
 tabtitle = 'lightsabers!'
-list_of_colors=['red', 'green', 'blue']
+list_of_colors=['noodles', 'chicken', 'fish']
 list_of_numbers=['one', 'two', 'three']
 sourceurl = 'https://dash.plot.ly/getting-started-part-2'
 githublink = 'https://github.com/austinlasseter/dash-callbacks-multi-input'
