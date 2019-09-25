@@ -6,7 +6,7 @@ from dash.dependencies import Input, Output, State
 
 ########### Define your variables ######
 
-myheading1='How to use callbacks with multiple inputs'
+myheading1='My food app'
 tabtitle = 'lightsabers!'
 list_of_colors=['noodles', 'chicken', 'fish']
 list_of_numbers=['one', 'two', 'three']
